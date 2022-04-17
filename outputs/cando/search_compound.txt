@@ -1,0 +1,6 @@
+id	name
+58	vitamin_a
+59	vitamin_e
+48	thiamine
+38	glutamic_acid
+57	valine

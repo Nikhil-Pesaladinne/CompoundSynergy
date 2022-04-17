@@ -1,0 +1,6 @@
+rank	probability	score	ind_id	indication
+1	0.00e+00	2	MESH:D002294	Carcinoma, Squamous Cell
+2	0.00e+00	2	MESH:D053098	Familial Hypophosphatemic Rickets
+3	0.00e+00	2	MESH:D007011	Hypoparathyroidism
+4	1.10e-02	2	MESH:D009069	Movement Disorders
+5	1.10e-02	2	MESH:D010018	Osteomalacia
